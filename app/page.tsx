@@ -350,7 +350,7 @@ export default function Home() {
               </div>
               <div className="relative w-full h-64 rounded-lg overflow-hidden">
                 <Image
-                  src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Codersforum1.jpg-kuCAP362wnZQOMjsh0smvC1L1P3Iha.jpeg"
+                  src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/codersforum2.jpg-btnRDoPSnWQGlw2Parb9OQfmLKBjaW.jpeg"
                   alt="Coders Forum Team"
                   className="object-cover w-full h-full"
                   width={400}
