@@ -64,7 +64,7 @@ export default function Home() {
       description: "Converts audio files directly to summarized text for better and short reading.",
       technologies: ["ReactJS", "Vite", "NodeJS", "Cloudflare R2", "Cloudflare Workers", "Gemini"],
       image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/pecteam.jpg-K1oWMIv08RSccUS9cclPUiXmUvJOWv.jpeg",
-      link: "https://github.com/Shruti-S0405/CodeSense",
+      link: "https://github.com/Shruti-S0405/Sound-Synth",
       highlights: [
         "Uses Deepgram API for Audio processing",
         "Leverages Gemini 1.5 Pro API for summarization",
