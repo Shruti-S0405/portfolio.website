@@ -11,7 +11,7 @@ export default function Logo() {
         whileHover={{ scale: 1.05 }}
         transition={{ duration: 0.2 }}
       >
-        <span className="ml-2 text-xl font-bold bg-gradient-to-r from-blue-400 to-blue-600 bg-clip-text text-transparent">
+        <span className="text-xl font-bold bg-gradient-to-r from-blue-400 to-blue-600 bg-clip-text text-transparent">
           Shruti
         </span>
       </motion.div>
