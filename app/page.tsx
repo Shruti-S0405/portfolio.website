@@ -105,7 +105,7 @@ export default function Home() {
       company: "Panimalar Engineering College",
       location: "Chennai, TamilNadu",
       period: "May 2024 - May 2025",
-      image1:
+      image:
         "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Codersforum1.jpg-kuCAP362wnZQOMjsh0smvC1L1P3Iha.jpeg",
       description: [
         "Led a vibrant student developer community of 100+ members, conducting monthly coding contests, technical workshops, and inter-college hackathons.",
